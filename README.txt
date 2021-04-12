@@ -33,3 +33,5 @@ holds some information messages during play and has references on the ChessBoard
 Imported assets
 Chess pieces png's
 Rotary Heart SerializableDiconaryLite (used to show dictonary values in unity)
+
+If you download the whole projects over zip file, the images wont be exported well. Workaround is to download all of them manualy or make a git clone via any of the git app's
