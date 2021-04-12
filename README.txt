@@ -2,8 +2,8 @@ MultiplayerChessNodeJS Unity
 
 Made in Unity version 2020.1.14f1
 
-To start the build there is a Build folder with the last built client app.
 To start the app in Unity editor use the SampleScene as the scene.
+To create an app build through unity with SampleScene.
 Everything that is needed to run the client is in that one scene.
 The scene consists of Networking Gameobject, Dispatcher and ParentCanvas (parent canvas has all other noteworthy gameobjects and scripts)
 
